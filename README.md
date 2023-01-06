@@ -1,2 +1,4 @@
 # Topic-Modeling-on-Steam-Games-Review
-The goal of this project is to identify the topics in game reviews
+Hello everyone, welcome to my notebook, this time I will make a project regarding Topic Modeling, click the following link if you want to know what topic modeling is: https://medium.com/towards-data-science/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24 On this occasion we will do modeling using LDA (Latent Dirichlet Allocation) and also the following Top2Vec link will tell what is the difference between the two: https://towardsdatascience.com/topic-modeling-with-lsa-plsa-lda-nmf-bertopic-top2vec-a-comparison-5e6ce4b1e4a5#5763
+
+We will use Steam Review Data which can be viewed at the following link: https://www.kaggle.com/datasets/andrewmvd/steam-reviews With over 9K games and over 4M reviews in total. But we will look for any topics that have been reviewed by one of the games that have won awards Game of The Year or the best game award, namely The Witcher 3: Wild Hunt.
